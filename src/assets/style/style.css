@@ -1,0 +1,12 @@
+.leaflet-marker-shadow {
+    display: none;
+}
+
+.test > input[type="checkbox"] {
+    display: none;
+}
+
+.container {
+    height:100vh;
+    width:100vw;
+}
